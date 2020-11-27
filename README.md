@@ -1,2 +1,2 @@
-# dwm-conf
-my dwm config
+# dwm-config
+my personal dwm-config
